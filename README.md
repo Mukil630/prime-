@@ -3,7 +3,7 @@
 
 # 👋 Welcome to My GitHub Profile
 
-Hi there! I'm **Mukil630**, a passionate developer and tech enthusiast exploring the intersection of **AI**, **voice technology**, and **intelligent systems**.
+Hi there! I'm **Mukil**, a passionate developer and tech enthusiast exploring the intersection of **AI**, **voice technology**, and **intelligent systems**.
 
 ---
 
