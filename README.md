@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a870b610-34d3-4fa1-8e4d-fa721a39ce03" />
+
 # 👋 Welcome to My GitHub Profile
 
 Hi there! I'm **Mukil630**, a passionate developer and tech enthusiast exploring the intersection of **AI**, **voice technology**, and **intelligent systems**.
